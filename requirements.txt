@@ -1,0 +1,16 @@
+numpy
+scipy
+pandas
+soundfile
+librosa
+opencv-python
+pydantic
+python-dotenv
+tqdm
+ffmpeg-python
+faster-whisper
+transformers
+sentencepiece
+sacremoses
+accelerate
+indic-nlp-library

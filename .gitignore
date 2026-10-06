@@ -1,0 +1,41 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project data
+data/input/*
+data/output/*
+
+# Model files
+models/*
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
