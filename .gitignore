@@ -39,3 +39,18 @@ models/*
 # Temporary files
 tmp/
 temp/
+
+# Generated media and audio
+*.mp4
+*.wav
+*.mp3
+*.avi
+*.m4a
+
+# Generated images
+boxed_frame.jpg
+test_frame.jpg
+
+# Model and cache directories
+checkpoints/
+.cache/
